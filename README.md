@@ -67,4 +67,4 @@ Trend Visualizations
 
 6. screenshot / Demos
 show what the dashboard look liks:
-Example:
+Example:(https://github.com/kaifkhan-98/Uber-dashboard/blob/main/Uber%20dashboard%20Screenshot.png)
